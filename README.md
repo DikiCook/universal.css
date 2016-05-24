@@ -19,7 +19,7 @@ The only CSS you will ever need.
 Insert this one line in your HTML source file:
 
 ```html
-<link rel="stylesheet" src="https://cdn.rawgit.com/marmelab/universal.css/master/universal.css" />
+<link rel="stylesheet" src="https://cdn.rawgit.com/marmelab/universal.css/master/universal.css">
 ```
 
 Then you can change the CSS classes in your HTML to **universal CSS classes**:
